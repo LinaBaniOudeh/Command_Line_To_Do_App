@@ -9,9 +9,9 @@
 
 # How to use The Application
 
-1-Download the application's source code to Command_Line_To_Do_App-master/ directory.
-2-Open the CLI and cd to the above directory.
-3-Create a Python virtual environment and activate it through the following commands:
+1. Download the application's source code to Command_Line_To_Do_App-master/ directory.
+2. Open the CLI and cd to the above directory.
+3. Create a Python virtual environment and activate it through the following commands:
 
 On Linux:
 ```bash
@@ -26,11 +26,11 @@ c:\> cd Command_Line_To_Do_App-master/
 c:\> python -m venv venv
 c:\> venv\Scripts\activate.bat
 ```
-4- Install the dependencies:
+4. Install the dependencies:
 ```bash
 (venv) $ python -m pip install -r requirements.txt
 ```
-5-Initialize the application:
+5. Initialize the application:
 ```bash
 (venv) $ python -m rptodo init
 ```
