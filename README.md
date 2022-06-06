@@ -35,7 +35,7 @@ c:\> venv\Scripts\activate.bat
 (venv) $ python -m rptodo init
 ```
 
-##Usage
+
 Once you've downloaded the source code and run the installation steps, you can run the following command to access the application's usage description:
 ```bash
 $ python -m rptodo --help
