@@ -1,11 +1,11 @@
 # Command_Line_To_Do_App
 
-#In this project, I learned how to:
+# In this project, I learned how to:
 
-1-Build a to-do application with Python and Typer.
-2-Add commands, arguments, and options to the to-do application using Typer.
-3-Test the to-do application using Typer’s CliRunner and pytest in Python.
-4-Practicing some additional skills, such as working with JSON files using Python’s json module and managing configuration files with Python’s configparser module.
+1. Build a to-do application with Python and Typer.
+2. Add commands, arguments, and options to the to-do application using Typer.
+3. Test the to-do application using Typer’s CliRunner and pytest in Python.
+4. Practicing some additional skills, such as working with JSON files using Python’s json module and managing configuration files with Python’s configparser module.
 
 # How to use The Application
 
