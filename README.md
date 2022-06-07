@@ -23,7 +23,7 @@ $ source venv/bin/activate
 On Windows:
 ```bash
 c:\> cd Command_Line_To_Do_App-master/
-c:\> python -m venv venv
+c:\> python -m venv ./venv
 c:\> venv\Scripts\activate.bat
 ```
 4. Install the dependencies:
