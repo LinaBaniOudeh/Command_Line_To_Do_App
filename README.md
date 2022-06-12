@@ -53,4 +53,8 @@ Commands:
   list      List all to-dos.
   remove    Remove a to-do using its TODO_ID.
 ```
+# Adding a To-Do
+![Capture]([https://user-images.githubusercontent.com/67745487/124186030-62be0e80-dac4-11eb-9835-53735b47b167.PNG])
 
+# Removing a To-Do
+![capture](https://user-images.githubusercontent.com/67745487/173221165-7de16900-eac2-484f-a398-f63bb436f0c8.png)
